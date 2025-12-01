@@ -44,7 +44,7 @@ Transitioning from academic research to industry roles in:
 - 🔗 [PhD Thesis](https://theses.gla.ac.uk/84715/)
 
 ### 📊 GitHub Stats
-![Parag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guptaparag81-coder&show_icons=true&theme=radical)
+![Parag's GitHub stats](https://github.com/guptaparag81-coder)
 
 ---
 
