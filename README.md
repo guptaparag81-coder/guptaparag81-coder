@@ -1,51 +1,101 @@
-# Hi, I'm Dr. Parag Gupta 👋
+## **Hi, I’m Dr. Parag Gupta 👋**
 
-## Computational Scientist | PhD in Applied Mathematics
+**Computational Scientist | Modelling & Simulation | Applied Data Science**
+*PhD Applied Mathematics | HPC • CFD • MHD • Quantitative Modelling*
 
-I'm a computational physicist specializing in **high-performance computing**, **magnetohydrodynamics (MHD)**, and **computational fluid dynamics (CFD)**. I recently completed my PhD at the University of Glasgow, where I developed advanced numerical simulations to model planetary and stellar magnetic fields.
+I’m a computational scientist with a PhD from the **University of Glasgow**, specialising in **numerical modelling, simulation, and data-driven analysis of complex physical systems**. My work focuses on building **interpretable models**, running **large-scale simulations**, and translating results into actionable insights.
 
-### 🔬 Research Expertise
-- **High-Performance Computing (HPC)**: MPI, OpenMP, SLURM on national supercomputing facilities
-- **Numerical Simulation**: 3D pseudospectral methods, PDE solvers, time-stepping algorithms
-- **Magnetohydrodynamics (MHD)**: Convection-driven dynamos, magnetic field generation
-- **Computational Fluid Dynamics (CFD)**: Rotating spherical shells, thermal convection
-- **Scientific Computing**: Large-scale data analysis, visualization, reproducible workflows
-
-### 💻 Technical Skills
-- **Languages**: Fortran (MPI/OpenMP), Python, C, MATLAB, Bash
-- **HPC**: Parallel computing, job scheduling (SLURM), performance optimization
-- **Python Stack**: NumPy, SciPy, Matplotlib, Pandas, h5py
-- **Tools**: Git, Linux/Unix, HDF5, NetCDF, LaTeX
-- **Domains**: Geophysics, Astrophysics, Climate Modeling, Data Science
-
-### 📚 Publications
-- **Differential Rotation in Convecting Spherical Shells** - *Fluids (MDPI)*, 2023
-- **Global Magnetic Helicity in Spherical Dynamos** - *Geophysical & Astrophysical Fluid Dynamics*, 2022
-- **Effects of Shell Thickness on Cross-Helicity Generation** - *Fluids (MDPI)*, 2020
-
-📖 [Full Thesis](https://theses.gla.ac.uk/84715/) | 📊 [Research Data](https://doi.org/10.5525/gla.researchdata.1541)
-
-### 🎯 Current Focus
-Transitioning from academic research to industry roles in:
-- Defense & Aerospace (computational modeling, MHD systems, simulation)
-- Data Science & Machine Learning (physics-informed ML, predictive modeling)
-- Computational Engineering (CFD, multiphysics modeling, optimization)
-- Climate & Environmental Modeling
-
-### 🏆 Achievements
-- 🥇 Best Poster Prize - UK-MHD Conference (2021)
-- 🎓 Visualise Your Thesis Finalist (2022)
-- 📦 Open-source code used by 15+ international research teams
-- 🇬🇧 7 years UK residency | SC clearance eligible
-
-### 📫 Connect With Me
-- 💼 [LinkedIn](https://linkedin.com/in/parag-gupta-research)
-- 📧 guptaparag81@gmail.com
-- 🔗 [PhD Thesis](https://theses.gla.ac.uk/84715/)
-
-### 📊 GitHub Stats
-![Parag's GitHub stats](https://github.com/guptaparag81-coder)
+I’m transitioning from academia into **industry-facing modelling, defence, quantitative, and applied data science roles**, where coding is a **tool for modelling and analysis**, not product engineering.
 
 ---
 
-*Open to opportunities in computational science, data science, and engineering roles across defense, aerospace, and tech sectors.*
+## 🔬 **Core Expertise**
+
+**Computational Modelling & Simulation**
+
+* High-performance numerical simulations of complex systems
+* Verification, validation, and uncertainty analysis
+* Model design, diagnostics, and interpretation
+
+**High-Performance Computing (HPC)**
+
+* MPI, OpenMP, SLURM on national supercomputing facilities (DiRAC, EPCC)
+* Large-scale workflows (100+ GB datasets)
+* Performance optimisation & reproducible pipelines
+
+**Data Analysis & Applied ML**
+
+* Exploratory data analysis (EDA)
+* Statistical modelling & time-series analysis
+* Interpretable machine learning & forecasting
+* Scientific & analytical visualisation
+
+**Domain Experience**
+
+* Magnetohydrodynamics (MHD) & fluid dynamics
+* Planetary, stellar & geophysical systems
+* Climate-adjacent and environmental modelling
+
+---
+
+## 💻 **Technical Stack**
+
+**Languages**
+Python · Fortran (MPI/OpenMP) · C · Bash
+
+**Python Ecosystem**
+NumPy · SciPy · Pandas · Matplotlib · scikit-learn · Statsmodels
+
+**Scientific & Data Tools**
+HDF5 · NetCDF · Git · Linux/Unix · Jupyter · LaTeX
+
+---
+
+## 📚 **Selected Publications**
+
+* *Differential Rotation in Convecting Spherical Shells* — **Fluids (MDPI), 2023**
+* *Global Magnetic Helicity in Spherical Dynamos* — **GAFD, 2022**
+* *Cross-Helicity Generation in Spherical Dynamos* — **Fluids (MDPI), 2020**
+
+📖 **PhD Thesis** | 📊 **Open Research Data**
+
+---
+
+## 🎯 **Current Focus**
+
+Building **industry-ready GitHub projects** demonstrating:
+
+* Modelling & simulation workflows
+* Verification & validation practices
+* Data analysis, forecasting, and quantitative reasoning
+
+Target roles:
+
+* **Computational / Modelling Scientist**
+* **Defence & Aerospace Modelling**
+* **Quantitative Research / Risk Modelling**
+* **Applied Data Scientist (interpretation-focused)**
+
+---
+
+## 🏆 **Highlights**
+
+* 🥇 Best Poster Prize — UK MHD Conference (2021)
+* 🎓 Visualise Your Thesis Finalist (2022)
+* 📦 Open-source research code used by **15+ international teams**
+* 🇬🇧 **7+ years UK residency — SC clearance eligible**
+
+---
+
+## 📫 **Connect**
+
+* 💼 LinkedIn: linkedin.com/in/parag-gupta-research
+* 📧 Email: [guptaparag81@gmail.com](mailto:guptaparag81@gmail.com)
+* 🔗 PhD Thesis
+* 📊 GitHub Stats
+
+---
+
+### ✅ **Status**
+
+Actively seeking **UK-based industry roles** in computational modelling, defence & aerospace simulation, quantitative analysis, and applied data science.
