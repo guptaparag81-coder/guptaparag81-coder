@@ -1,4 +1,4 @@
-## **Hi, I’m Dr. Parag Gupta 👋**
+## **Hi, Parag Gupta 👋**
 
 **Computational Scientist | Modelling & Simulation | Applied Data Science**
 *PhD Applied Mathematics | HPC • CFD • MHD • Quantitative Modelling*
