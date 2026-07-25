@@ -86,8 +86,6 @@ I’m building open-source projects that demonstrate:
 * Numerical computing
 * Production-quality Python development
 
-⸻
-
 Let’s Connect
 
 * LinkedIn
