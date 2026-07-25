@@ -8,7 +8,7 @@ With a PhD in Applied Mathematics from the University of Glasgow, my background 
 
 I’m currently expanding my portfolio by building production-quality Python applications, APIs, and AI-powered tools while applying software engineering best practices to scientific computing.
 
-Current Projects
+Current Projects:
 
 SciCompute Core
 
@@ -26,14 +26,14 @@ StochaSense (In Development)
 
 AI-powered platform for stochastic modelling, scientific computing, and quantitative analysis.
 
-Upcoming Projects
+Upcoming Projects:
 
 * Modern backend engineering applications
 * AI-powered scientific software
 * Quantitative modelling projects
 * Data engineering and analytics pipelines
 
-Technical Skills
+Technical Skills:
 
 Languages
 
@@ -59,7 +59,7 @@ High Performance Computing
 
 MPI • OpenMP • SLURM • DiRAC • EPCC
 
-Research Interests
+Research Interests:
 
 * Numerical Methods
 * Scientific Computing
@@ -70,7 +70,7 @@ Research Interests
 * Mathematical Modelling
 * Data-Driven Simulation
 
-Publications
+Publications:
 
 * Differential Rotation in Convecting Spherical Shells (2023)
 * Global Magnetic Helicity in Spherical Dynamos (2022)
