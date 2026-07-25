@@ -1,101 +1,107 @@
-## **Hi, Parag Gupta 👋**
+Hi, I’m Parag Gupta 👋
 
-**Computational Scientist | Modelling & Simulation | Applied Data Science**
-*PhD Applied Mathematics | HPC • CFD • MHD • Quantitative Modelling*
+Computational Scientist | Scientific Software Engineer | Applied AI & Numerical Computing
 
-I’m a computational scientist with a PhD from the **University of Glasgow**, specialising in **numerical modelling, simulation, and data-driven analysis of complex physical systems**. My work focuses on building **interpretable models**, running **large-scale simulations**, and translating results into actionable insights.
+I build scientific software, numerical simulation tools, and AI-powered applications that combine mathematics, high-performance computing, and modern software engineering.
 
-I’m transitioning from academia into **industry-facing modelling, defence, quantitative, and applied data science roles**, where coding is a **tool for modelling and analysis**, not product engineering.
+With a PhD in Applied Mathematics from the University of Glasgow, my background spans computational modelling, numerical methods, scientific computing, and large-scale simulation. I enjoy turning complex mathematical problems into reliable, well-tested software.
 
----
+I’m currently expanding my portfolio by building production-quality Python applications, APIs, and AI-powered tools while applying software engineering best practices to scientific computing.
 
-## 🔬 **Core Expertise**
+⸻
 
-**Computational Modelling & Simulation**
+Current Projects
 
-* High-performance numerical simulations of complex systems
-* Verification, validation, and uncertainty analysis
-* Model design, diagnostics, and interpretation
+SciCompute Core
 
-**High-Performance Computing (HPC)**
+Production-quality scientific computing framework featuring:
 
-* MPI, OpenMP, SLURM on national supercomputing facilities (DiRAC, EPCC)
-* Large-scale workflows (100+ GB datasets)
-* Performance optimisation & reproducible pipelines
+* Python package
+* FastAPI REST API
+* PostgreSQL & SQLAlchemy
+* Alembic database migrations
+* Comprehensive automated testing
+* Docker support
+* Classical numerical root-finding algorithms
 
-**Data Analysis & Applied ML**
+StochaSense (In Development)
 
-* Exploratory data analysis (EDA)
-* Statistical modelling & time-series analysis
-* Interpretable machine learning & forecasting
-* Scientific & analytical visualisation
+AI-powered platform for stochastic modelling, scientific computing, and quantitative analysis.
 
-**Domain Experience**
+Upcoming Projects
 
-* Magnetohydrodynamics (MHD) & fluid dynamics
-* Planetary, stellar & geophysical systems
-* Climate-adjacent and environmental modelling
+* Modern backend engineering applications
+* AI-powered scientific software
+* Quantitative modelling projects
+* Data engineering and analytics pipelines
 
----
+⸻
 
-## 💻 **Technical Stack**
+Technical Skills
 
-**Languages**
-Python · Fortran (MPI/OpenMP) · C · Bash
+Languages
 
-**Python Ecosystem**
-NumPy · SciPy · Pandas · Matplotlib · scikit-learn · Statsmodels
+Python • C • Fortran (MPI/OpenMP) • Bash
 
-**Scientific & Data Tools**
-HDF5 · NetCDF · Git · Linux/Unix · Jupyter · LaTeX
+Backend
 
----
+FastAPI • SQLAlchemy • PostgreSQL • Alembic • REST APIs
 
-## 📚 **Selected Publications**
+Scientific Computing
 
-* *Differential Rotation in Convecting Spherical Shells* — **Fluids (MDPI), 2023**
-* *Global Magnetic Helicity in Spherical Dynamos* — **GAFD, 2022**
-* *Cross-Helicity Generation in Spherical Dynamos* — **Fluids (MDPI), 2020**
+NumPy • SciPy • Pandas • Matplotlib • HDF5 • NetCDF
 
-📖 **PhD Thesis** | 📊 **Open Research Data**
+AI & Data Science
 
----
+scikit-learn • Statsmodels • Data Analysis • Machine Learning • Time Series Analysis
 
-## 🎯 **Current Focus**
+Software Engineering
 
-Building **industry-ready GitHub projects** demonstrating:
+Git • GitHub • Linux • Docker • Testing • CI/CD • Jupyter
 
-* Modelling & simulation workflows
-* Verification & validation practices
-* Data analysis, forecasting, and quantitative reasoning
+High Performance Computing
 
-Target roles:
+MPI • OpenMP • SLURM • DiRAC • EPCC
 
-* **Computational / Modelling Scientist**
-* **Defence & Aerospace Modelling**
-* **Quantitative Research / Risk Modelling**
-* **Applied Data Scientist (interpretation-focused)**
+⸻
 
----
+Research Interests
 
-## 🏆 **Highlights**
+* Numerical Methods
+* Scientific Computing
+* Computational Physics
+* High-Performance Computing
+* Applied Machine Learning
+* AI for Scientific Discovery
+* Mathematical Modelling
+* Data-Driven Simulation
 
-* 🥇 Best Poster Prize — UK MHD Conference (2021)
-* 🎓 Visualise Your Thesis Finalist (2022)
-* 📦 Open-source research code used by **15+ international teams**
-* 🇬🇧 **7+ years UK residency — SC clearance eligible**
+⸻
 
----
+Publications
 
-## 📫 **Connect**
+* Differential Rotation in Convecting Spherical Shells (2023)
+* Global Magnetic Helicity in Spherical Dynamos (2022)
+* Cross-Helicity Generation in Spherical Dynamos (2020)
 
-* 💼 LinkedIn: linkedin.com/in/parag-gupta-research
-* 📧 Email: [guptaparag81@gmail.com](mailto:guptaparag81@gmail.com)
-* 🔗 PhD Thesis
-* 📊 GitHub Stats
+⸻
 
----
+Current Focus
 
-### ✅ **Status**
+I’m building open-source projects that demonstrate:
 
-Actively seeking **UK-based industry roles** in computational modelling, defence & aerospace simulation, quantitative analysis, and applied data science.
+* Scientific software engineering
+* AI-powered applications
+* Backend engineering
+* Numerical computing
+* Production-quality Python development
+
+⸻
+
+Let’s Connect
+
+* LinkedIn
+* Personal Portfolio (coming soon)
+* Google Scholar
+* ORCID
+* PhD Thesis
