@@ -1,4 +1,4 @@
-Hi, I’m Parag Gupta 👋
+**Hi, I’m Parag Gupta 👋**
 
 **Computational Scientist | Scientific Software Engineer | Applied AI & Numerical Computing**
 
